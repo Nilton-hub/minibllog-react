@@ -1,0 +1,2 @@
+* firebase
+https://console.firebase.google.com/u/0/project/miniblog-50590/settings/general/web:NGIyMjA1OTYtZWI4ZS00OTg5LTkzNWUtZTdmODI5YzcyNDhh
